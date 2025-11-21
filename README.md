@@ -12,7 +12,7 @@
 
 ```bash
 git clone https://github.com/Alex-SY-Hong/extract-IF.git
-cd metadata-and-IF
+cd extract-IF
 pip install -r requirements.txt
 ```
 实际上依赖的库只有PyPDF2和pandas，手动下载也可。
