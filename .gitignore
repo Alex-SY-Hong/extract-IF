@@ -1,0 +1,5 @@
+# vim temp文件
+*~
+
+# vim swap文件
+*.sw?
